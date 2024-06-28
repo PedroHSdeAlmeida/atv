@@ -1,5 +1,5 @@
-from menus.user_menu import UserMenu
-from menus.seller_menu import SellerMenu
+from menus.usuarioMenu import UserMenu
+from menus.vendedorMenu import SellerMenu
 from database.models.usuario import Usuario
 from database.models.vendedor import Vendedor
 
